@@ -5,4 +5,5 @@ This program is made for monitoring patient vital signs allowing measure the bea
 
 
 
-![monitor](https://github.com/gitreis/monitor/assets/54642754/4dad1596-f7cf-4fde-b4f6-ee7c2a024890)
+
+![monitor](https://github.com/gitreis/monitor/assets/54642754/b13f8752-111c-432a-b53f-d8e9c6d4d489)
